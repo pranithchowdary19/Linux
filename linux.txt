@@ -1,0 +1,29 @@
+Linux :-
+
+
+gzip ---> This command is used to zip the files.
+
+---> In this only specified file is going to zip not all files.
+
+Syntax :- gzip <filename>
+
+Eg :- gzip f1.txt
+
+
+---> To view the content in zip file, we use this command.
+
+Syntax :- zcat <filename>
+
+Eg :- zcat f1.txt
+
+
+Tar ---> Tar Stands for Tape Archive.It is used to create,maintain,modify and extract files which are archived in tar format.
+
+---> To unzip the zip file we use this commands.
+
+1. Syntax :- tar -xf <zipfilename>
+   Eg : - tar -xf tomcat.zip
+
+
+2. Syntax :- unzip <Zipfilename>
+   Eg :- Unzip tomcat.zip
